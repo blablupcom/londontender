@@ -148,8 +148,8 @@ if __name__ == '__main__':
 
     todays_date = str(datetime.now())
     portals = [
-    'https://www.londontenders.org/procontract/supplier.nsf/frm_planner_search_results?OpenForm&contains=&cats=&order_by=DATE&all_opps=CHECK&org_id=ALL',
-    # 'https://www.bluelight.gov.uk/procontract/supplier.nsf/frm_planner_search_results?OpenForm&contains=&cats=&order_by=DATE&all_opps=CHECK&org_id=ALL',
+     'https://www.londontenders.org/procontract/supplier.nsf/frm_planner_search_results?OpenForm&contains=&cats=&order_by=DATE&all_opps=CHECK&org_id=ALL',
+    #'https://www.bluelight.gov.uk/procontract/supplier.nsf/frm_planner_search_results?OpenForm&contains=&cats=&order_by=DATE&all_opps=CHECK&org_id=ALL',
     # 'https://www.fxplustenders.org/procontract/fxplus/supplier.nsf/frm_planner_search_results?OpenForm&contains=&cats=&order_by=DATE&all_opps=CHECK&org_id=ALL',
     # 'https://www.lppsourcing.org/procontract/lpp/supplier.nsf/frm_planner_search_results?OpenForm&contains=&cats=&order_by=DATE&all_opps=CHECK&org_id=ALL',
     # 'https://www.advantageswtenders.co.uk/procontract/advantage/supplier.nsf/frm_planner_search_results?OpenForm&contains=&cats=&order_by=DATE&all_opps=CHECK&org_id=ALL',
